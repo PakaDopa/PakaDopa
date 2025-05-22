@@ -7,16 +7,17 @@
 
 ## 🧠 About Me
 
-- 🎯 목표: 고성능 게임 클라이언트 개발
-- 🔭 현재 Unity와 Unreal을 활용한 프로젝트 진행 중
-- 🛠️ 관심 기술: ECS, 네트워크 최적화, 게임 UI 시스템 구조
+- 🎯 목표: 많은 기술적 경험해보기!
+- 🔭 현재 Unity를 이용한 3D RTS 타워 디펜스 게임 제작 중 (졸업작품)
+- 🛠️ 관심 기술: VFX, Shdaer, Game-Network! (❁´◡`❁)
 
 ---
 
-## 🌍 Blog & Contact
+## 🌍 Blog
 
 - [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pakadopa)](https://velog.io/@pakadopa/posts)
-- 📫 이메일: kookie7741@gmail.com
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pakadopa)](https://github.com/eungyeole/velog-readme-stats)
 
 ---
 
@@ -45,12 +46,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PakaDopa&theme=darkhub&margin-w=15&no-frame=true" />
 </p>
-
----
-
-## 📝 Latest Blog Posts
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pakadopa)](https://github.com/eungyeole/velog-readme-stats)
 
 ---
 
