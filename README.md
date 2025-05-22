@@ -8,26 +8,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PakaDopa&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🧠 About Me
-
-- 🎯 목표: 많은 기술적 경험해보기!
-- 🔭 현재 Unity를 이용한 3D RTS 타워 디펜스 게임 제작 중 (졸업작품)
-- 🛠️ 관심 기술: VFX, Shdaer, Game-Network! (❁´◡`❁)
-
----
-
-## 🌍 Blog
-
-### Blog Link
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pakadopa)](https://velog.io/@pakadopa/posts)
-
-### Latest Blog Posts
+Latest Blog Posts
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pakadopa)](https://github.com/eungyeole/velog-readme-stats)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pakadopa)](https://velog.io/@pakadopa/posts)
 ---
 
 ## 💻 Tech Stack
