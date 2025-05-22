@@ -15,7 +15,11 @@
 
 ## 🌍 Blog
 
-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pakadopa)](https://velog.io/@pakadopa/posts)
+### Blog Link
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pakadopa)](https://velog.io/@pakadopa/posts)
+
+### Latest Blog Posts
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pakadopa)](https://github.com/eungyeole/velog-readme-stats)
 
