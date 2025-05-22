@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PakaDopa&layout=compact&theme=tokyonight" />
 </p>
 
-Latest Blog Posts
+## 👓 Blog
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pakadopa)](https://github.com/eungyeole/velog-readme-stats)
 
