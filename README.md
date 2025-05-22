@@ -15,7 +15,7 @@
 
 ## 🌍 Blog & Contact
 
-- 📝 Velog: [https://velog.io/@pakadopa/posts](https://velog.io/@pakadopa/posts)
+- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pakadopa)](https://velog.io/@pakadopa/posts)
 - 📫 이메일: kookie7741@gmail.com
 
 ---
