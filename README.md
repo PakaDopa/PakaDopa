@@ -50,8 +50,7 @@
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pakadopa)](https://github.com/eungyeole/velog-readme-stats)
 
 ---
 
